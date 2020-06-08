@@ -1,5 +1,5 @@
 class Person
-  attr_accesor 
+  attr_accesor :name, 
   
   
 end
